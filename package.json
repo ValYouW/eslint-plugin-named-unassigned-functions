@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-named-unassigned-functions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eslint rule for requiring or disallow unassigned functions to be named inline",
   "main": "index.js",
   "scripts": {},
