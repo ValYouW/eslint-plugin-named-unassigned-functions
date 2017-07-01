@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-named-unassigned-functions",
+  "version": "0.0.1",
+  "description": "Eslint rule for requiring or disallow unassigned functions to be named inline",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValYouW/eslint-plugin-named-unassigned-functions.git"
+  },
+  "homepage": "",
+  "bugs": "",
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "ValYouW <ValYouW@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  }
+}
